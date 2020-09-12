@@ -1,0 +1,7 @@
+Uma Empresa que faz locação de Eletroportáteis, cada eletroportátil possui um numero de série, um modelo,  
+uma referencia e uma marca, e seu tempo de uso é determinado pelo tempo em que ficou fora da locadora.
+
+Um eletroportátil pode ser alugado por muitos clientes, e um cliente pode alugar vários produtos também.
+
+o valor da locação é feita por dia de uso, portanto é preciso registrar a data e a hora em que o o produto foi alugado
+e em que foi devolvido.
